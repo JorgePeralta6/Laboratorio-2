@@ -5,6 +5,7 @@ nav{
 
 body{
     margin: 0px;
+    font-family: "Bai Jamjuree", sans-serif;
 }
 
 header{
@@ -12,7 +13,7 @@ header{
 }
 
 table {
-    width: 100%;
+    width: 60%;
     border-collapse: collapse;
     margin: 1rem 0;
 }
@@ -24,4 +25,21 @@ th, td {
 
 p{
     text-align: center;
+}
+
+table{
+    margin: 10px;
+    font-family: "Bai Jamjuree", sans-serif;
+    border: 1px solid red;
+}
+
+footer{
+    text-align: center;
+    font-family: "Bai Jamjuree", sans-serif;
+    position: relative;
+}
+
+thead, caption{
+    color:blue;
+    border: 2px solid red;
 }

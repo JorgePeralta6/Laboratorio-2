@@ -10,3 +10,17 @@ body{
 header{
     text-align: center;
 }
+
+img{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    font-family: "Bai Jamjuree", sans-serif;
+    position: relative;
+}
+
+p{
+    font-family: "Bai Jamjuree", sans-serif;
+}
