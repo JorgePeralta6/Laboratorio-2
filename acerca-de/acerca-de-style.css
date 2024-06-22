@@ -1,0 +1,27 @@
+nav{
+    background-color: yellow;
+    padding: 10px;
+}
+
+body{
+    margin: 0px;
+}
+
+header{
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+}
+
+th, td {
+    padding: 0.75rem;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}

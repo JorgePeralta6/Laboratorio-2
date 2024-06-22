@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+}
+thead, caption{
+    color:aqua;
+    border: 2px solid gray;
+}
+.anav{
+    color:black;
+    text-decoration: none;
+}
+
+nav{
+    background-color: yellow;
+    padding: 10px;
+}
+
+.ulnav{
+    display: flex;
+    list-style-type: none;
+}
+
+.linav{
+    padding-right: 30px;
+}
+
+.tablecontainer{
+    display: flex;
+    justify-content: center;
+}
+
+table{
+    margin: 20px;
+    font-family: "Bai Jamjuree", sans-serif;
+    border: 2px solid gray;
+}
+
+footer{
+    font-family: "Bai Jamjuree", sans-serif;
+    font-size: 10px;
+    text-align: center;
+    position: relative;
+}
